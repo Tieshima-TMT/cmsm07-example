@@ -12,6 +12,10 @@ header {
 	background-color: #E1D2EE;
 }
 
+h1, h2 {
+	color: #43225E;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #43225E;
